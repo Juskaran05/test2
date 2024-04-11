@@ -1,0 +1,5 @@
+.navbar {
+  position: fixed; /* Fix the navigation bar at the top */
+  width: 100%; /* Take up the full width of the viewport */
+  top: 0; /* Stick it to the top of the viewport */
+}
